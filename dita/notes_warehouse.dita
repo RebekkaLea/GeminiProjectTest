@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic-6009" xml:lang="en-us" class="- topic/topic ">
+  <title class="- topic/title ">notes_warehouse</title>
+  <shortdesc class="- topic/shortdesc ">This document contains all of the notes that are reused across topics in the Gemini project.</shortdesc>
+  <body class="- topic/body ">
+    <note id="noteBrowserCapatibility" class="- topic/note ">Gemini works best when used in the Chrome browser.</note>
+    <note id="notePrompts" class="- topic/note ">Always provide a detailed prompt that specifies context, actions, and exceptions.</note>
+  </body>
+</topic>
